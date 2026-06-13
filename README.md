@@ -50,6 +50,7 @@ Users are be able to:
 1. How to dynamically apply active styles to navigation links using Vanilla JavaScript.
 2. How to create responsive mobile navigation menu with show/hide functionality.
 3. How to disable background scrolling when a mobile navigation menu is open for a better experience.
+4. Implemented the _prefers-reduced-motion_ media query to reduce or disable animations and transitions for users who prefer reduced motion, improving accessibility and user comfort.
 
 ### Continued development
 
