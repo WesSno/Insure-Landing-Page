@@ -5,8 +5,6 @@ const closeIcon = document.querySelector(".close-icon");
 const navItems = document.querySelectorAll(".nav-item");
 const desktopNavLinks = document.querySelectorAll(".desktop-nav-link");
 
-console.log(desktopNavLinks);
-
 toggleMenu = () => {
   if (navMenu.classList.contains("showMenu")) {
     navMenu.classList.remove("showMenu");
