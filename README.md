@@ -32,7 +32,7 @@ Users are be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/WesSno/Insure-Landing-Page)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://kbk-insure-landing-page.netlify.app/)
 
 ## My process
 
